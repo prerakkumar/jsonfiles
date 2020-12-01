@@ -1,4 +1,5 @@
-[{
+{
+  "data":[{
 "tripId":4125,
 "travellerId":452356,
 "coTravellers":[254556,123564],
@@ -18,3 +19,4 @@
 "arrivalTime":"30 Aug,2020",
 "imageUrl":"assets/images/goa.jpg"
 }]
+}
