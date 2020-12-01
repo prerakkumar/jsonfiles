@@ -1,0 +1,20 @@
+[{
+"tripId":4125,
+"travellerId":452356,
+"coTravellers":[254556,123564],
+"departure":"Delhi",
+"departureTime":"24 Aug,2020",
+"arrival":"Manali",
+"arrivalTime":"30 Aug,2020",
+"imageUrl":"assets/images/manali.jpg"
+},
+{
+"tripId":4125,
+"travellerId":452356,
+"coTravellers":[254556,123564],
+"departure":"Delhi",
+"departureTime":"24 Aug,2020",
+"arrival":"Manali",
+"arrivalTime":"30 Aug,2020",
+"imageUrl":"assets/images/goa.jpg"
+}]
